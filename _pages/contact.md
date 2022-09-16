@@ -1,9 +1,9 @@
 ---
 title: Contact
-author: Tao He
+author: Alan J.
 date: 2022-02-05
 category: Jekyll
 layout: post
 ---
 
-This is an contact page.
+Contact information available by request.
